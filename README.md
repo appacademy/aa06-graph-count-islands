@@ -1,1 +1,0 @@
-# aa06-graph-count-islands
